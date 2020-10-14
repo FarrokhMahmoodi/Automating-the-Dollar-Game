@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599011353 source:c:\users\user\documents\cs4500 intro to software profession\hw2 automating the dollar game\hw2.cpp
+	<iostream>
+
+1599774688 source:c:\users\user\documents\cs4500 intro to software profession\cs4500 hw2 automating the dollar game\hw2.cpp
+	<iostream>
+
+1599796011 source:c:\users\user\documents\cs4500 intro to software profession\cs4500 hw2 automating the dollar game\hw2 automating the dollar game.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<stdio.h>
+
